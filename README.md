@@ -1,2 +1,2 @@
-# eit060-project2
-Datasäkerhet
+# eit060-project
+Computer Security | Computer Science
